@@ -17,9 +17,10 @@ f) Voice enabled AI assistant to help users
 g) a unique user id given my administration
 
 
-PROJECT DESIGN:
+Project Design
 
 1.In this system there will be two main pages to be able to access: Admin page and Voting Page. From the Admin page administrator will be able to design the voting application. 
+
 2.From the Voting page clients will be able to open their election pages and vote for the candidates. According to the login credentials, system will determine if the user is Administrator or the user and open the pages given access to the user credentials.
 
 Registration:
